@@ -4,7 +4,7 @@ This repository contains projects, tutorials, and lectures completed during the 
 
 ## Tutorials
 
-- [Tutorial 1](tutorials/tutorial+1)
+- [Tutorial 1](Tutorial/Tutorial 3)
 - [Tutorial 2](tutorials/tutorial+2)
 - [Tutorial 3](tutorials/tutorial+3)
 - [Tutorial 4](tutorials/tutorial+4)

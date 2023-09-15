@@ -4,15 +4,15 @@ This repository contains projects, tutorials, and lectures completed during the 
 
 ## Tutorials
 
-- [Tutorial 1](tutorials/tutorial1)
-- [Tutorial 2](tutorials/tutorial2)
-- [Tutorial 3](tutorials/tutorial3)
-- [Tutorial 4](tutorials/tutorial4)
-- [Tutorial 5](tutorials/tutorial5)
-- [Tutorial 6](tutorials/tutorial6)
-- [Tutorial 7](tutorials/tutorial7)
-- [Tutorial 8](tutorials/tutorial8)
-- [Tutorial 9](tutorials/tutorial9)
+- [Tutorial 1](tutorials/tutorial+1)
+- [Tutorial 2](tutorials/tutorial+2)
+- [Tutorial 3](tutorials/tutorial+3)
+- [Tutorial 4](tutorials/tutorial+4)
+- [Tutorial 5](tutorials/tutorial+5)
+- [Tutorial 6](tutorials/tutorial+6)
+- [Tutorial 7](tutorials/tutorial+7)
+- [Tutorial 8](tutorials/tutorial+8)
+- [Tutorial 9](tutorials/tutorial+9)
 
 Each tutorial folder contains related materials and code for the respective tutorial.
 

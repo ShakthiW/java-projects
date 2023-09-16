@@ -18,15 +18,15 @@ Each tutorial folder contains related materials and code for the respective tuto
 
 ## Lectures
 
-- [Lecture 1](lectures/lecture1)
-- [Lecture 2](lectures/lecture2)
-- [Lecture 3](lectures/lecture3)
-- [Lecture 4](lectures/lecture4)
-- [Lecture 5](lectures/lecture5)
-- [Lecture 6](lectures/lecture6)
-- [Lecture 7](lectures/lecture7)
-- [Lecture 8](lectures/lecture8)
-- [Lecture 9](lectures/lecture9)
+- [Lecture 1](Lecture/lecture1)
+- [Lecture 2](Lecture/lecture2)
+- [Lecture 3](Lecture/lecture3)
+- [Lecture 4](Lecture/lecture4)
+- [Lecture 5](Lecture/lecture5)
+- [Lecture 6](Lecture/lecture6)
+- [Lecture 7](Lecture/lecture7)
+- [Lecture 8](Lecture/lecture8)
+- [Lecture 9](Lecture/lecture9)
 
 Lecture folders include materials and code discussed during the corresponding lectures.
 

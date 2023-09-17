@@ -32,7 +32,7 @@ Lecture folders include materials and code discussed during the corresponding le
 
 ## Individual Projects
 
-- [Project 1](projects/project1)
+- [Project 1](practice/MovieDatabase/src)
 
 - [Project 2](projects/project2)
 
